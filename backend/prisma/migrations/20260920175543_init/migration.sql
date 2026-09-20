@@ -1,0 +1,8 @@
+-- CreateTable
+CREATE TABLE "Entry" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "originalText" TEXT NOT NULL,
+    "summary" TEXT NOT NULL,
+    "tags" TEXT NOT NULL,
+    "createdAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
