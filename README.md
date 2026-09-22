@@ -160,6 +160,11 @@ npm test
 
 Antigravity (a deep-learning based agent) was used to assist in writing scaffolding and React implementations. The generated code was not blindly accepted; it was reviewed, thoroughly tested, and modified line-by-line to ensure stability, proper error handling, and strict adherence to the project specifications.
 
-## Screenshot
+## Screenshots
 
-![AI Content Assistant](./docs/screenshot.png)
+### Empty State
+![Frontend View](./screenshots/frontend_view_1.png)
+
+### Populated Data State
+![Frontend with Data](./screenshots/frontend_with_data.png)
+![Entry Detail View](./screenshots/frontend_with_data_detail.png)
